@@ -16,7 +16,12 @@ gus = {
   pronoums: 'he' or 'his',
   age: 27,
   nationality: 'Brazilian',
-  programming_languages: ['Python', 'C/C++', 'Java', 'JavaScript'],
+  programming_languages: [
+    'Python',
+    'C/C++',
+    'Java',
+    'JavaScript'
+  ],
   interests: [
     'Computer Vision',
     'Machine Learning',
@@ -24,8 +29,8 @@ gus = {
     'Information Retrieval',
     'Natural Language Processing'
   ],
-  current_work: ['Gait recognition', 'Person Re-identification'],
-  challenges: 'Working on my Kaggle profile to improve ML skills.'
+  current_work: 'Gait recognition',
+  challenges: 'Improve ML skills on Kaggle.'
 }
 ```
 
