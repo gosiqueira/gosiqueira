@@ -9,7 +9,7 @@
 </em></p>
 
 
-### <img src="https://media.giphy.com/media/h7cJVfe1YhqhJnCcM3/giphy.gif" width="50"> A little bit more about me...  
+### A little bit more about me...  
 
 ```python
 gus = {
