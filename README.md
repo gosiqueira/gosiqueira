@@ -30,7 +30,7 @@ gus = {
     'Natural Language Processing'
   ],
   current_work: 'Gait recognition',
-  challenges: 'Improve ML skills on Kaggle.'
+  challenges: 'Finish my Ph.D.'
 }
 ```
 
