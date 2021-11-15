@@ -5,7 +5,7 @@
 [![Linkedin: gosiqueira](https://img.shields.io/badge/-gosiqueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gosiqueira/)](https://www.linkedin.com/in/gosiqueira/)
 [![GitHub Gustavo](https://img.shields.io/github/followers/gosiqueira?label=follow&style=social)](https://github.com/gosiqueira)
 
-<p><em>PhD student at <a href="http://www.ufmg.br">Federal University of Minas Gerais</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Research Assistant at <a href="http://smartsenselab.dcc.ufmg.br/en/">Smart Sense Laboratory</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>PhD student at <a href="http://www.ufmg.br">Federal University of Minas Gerais</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>AI Researcher at <a href="https://research.samsung.com/srbr">SRBR</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
