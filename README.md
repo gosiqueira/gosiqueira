@@ -12,9 +12,9 @@
 ### A little bit more about me...  
 
 ```python
-gus = {
+gustas = {
   pronoums: 'he' or 'his',
-  age: 28,
+  age: 30,
   nationality: 'Brazilian',
   programming_languages: [
     'Python',
